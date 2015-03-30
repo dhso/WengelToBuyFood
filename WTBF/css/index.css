@@ -11,6 +11,7 @@ html, body {
 	-webkit-box-orient: vertical;
 	-webkit-flex-flow: column;
 	flex-flow: column;
+	background-color:#000000;
 }
 
 #main {
@@ -24,7 +25,7 @@ html, body {
 	text-align: center;
 	height: 56px;
 	line-height: 55px;
-	background-color: #f2f2f2;
+	background-color: #000A00;
 }
 
 ul {
@@ -91,7 +92,7 @@ ul {
 }
 
 .topbar {
-	background: #f2f2f2;
+	background: #fff;
 	height: 50px;
 	border-bottom: 1px solid #DDDFE3;
 	line-height: 50px;
